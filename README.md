@@ -1,1 +1,1 @@
-IoT based Safety Gadget for Child Safety Monitoring and Notification which helps the parents to continuosly monitoring their children and the notification will be send to the parents if the child crosses the geofence using Agile methodologies.
+Project:IoT based Safety Gadget for Child Safety Monitoring and Notification which helps the parents to continuosly monitoring their children and the notification will be send to the parents if the child crosses the geofence using Agile methodologies.
